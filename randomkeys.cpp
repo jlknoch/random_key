@@ -36,4 +36,11 @@ int main()
 	cout << "---ENDLINE---" << endl;
 	return 0;	
 }
-
+/*  --- COPYLEFT ---
+  
+    AUTHOR: 
+    Jan-Lukas Knoch
+    MAIL: jl_knoch@protonmail.com
+    GITHUB: https://github.com/jlknoch/
+  
+*/
