@@ -2,7 +2,7 @@
 program creates "random" keys
 
 
-Poth compiled c++ files create random keys with a specific length you entered.
+Both compiled c++ files create random keys with a specific length you entered.
 
 random.cpp is for single keys
 
